@@ -1,13 +1,10 @@
 {
   "name": "web_messenger",
   "version": "1.0.0",
-  "description": "A new Flutter project.",
-  "main": "auth.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
+  "description": "A new web messenger project.",
+  "main": "app.js",  
   "scripts": {
+    "start": "node app.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
